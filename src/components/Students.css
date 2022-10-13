@@ -1,0 +1,14 @@
+h1 {
+    color: yellowgreen;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border: solid 0.2rem;
+}
+
+p {
+
+}
